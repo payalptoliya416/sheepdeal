@@ -1,0 +1,11 @@
+.swiper-button-prev:after, .swiper-button-next:after{
+    font-size: 18px;
+    color: #000;
+    font-weight: 800;
+}
+.swiper-button-next, .swiper-rtl .swiper-button-prev{
+    right: -4px;
+}
+.swiper-button-prev, .swiper-rtl .swiper-button-next{
+    left: -4px;
+}

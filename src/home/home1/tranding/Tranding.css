@@ -1,0 +1,19 @@
+.thumb:hover .side-errow{
+    opacity: 1!important;
+    transition: all 0.5s;
+    }
+    .thumb:hover .side-cart{
+    opacity: 1!important;
+    transition: all 0.5s;
+    right: 20px;
+    }
+    .thumb:hover .thumb-size-color div{
+    opacity: 1!important;
+    transition: all 0.5s;
+    top: 80%; 
+    } 
+    .thumb:hover .hover-cart{
+        opacity: 1!important;
+        left: 0!important;
+        transition: all 0.5s;
+    }

@@ -1,0 +1,17 @@
+.vedio-home2 .video-react-controls-enabled{
+    padding: 280px 0!important;
+}
+.vedio-home2 .video-react-poster{
+    background-size: cover;
+    width: 100%;
+}
+.vedio-home2 .video-react .video-react-big-play-button{
+    left: 50%;
+    top: 50%;
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+}
+.vedio-home2 .video-react .video-react-control:before, .video-react .video-react-big-play-button:before{
+    top: 12px;
+}

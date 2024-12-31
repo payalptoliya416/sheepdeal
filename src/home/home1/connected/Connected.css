@@ -1,0 +1,7 @@
+.hol::placeholder{
+    z-index: 10;
+    color: #fff!important;
+}
+.form-place:focus{
+    box-shadow: none!important;
+}

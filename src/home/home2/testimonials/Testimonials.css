@@ -1,0 +1,10 @@
+.testimonials-home2  .swiper-pagination-bullet-active{
+       background-color: #54CABF;
+}
+.testimonials-home2  .swiper-pagination-bullet{
+    height: 12px;
+    width: 12px;
+}
+.testimonials-home2 .swiper-pagination{
+    bottom: -5px;
+}

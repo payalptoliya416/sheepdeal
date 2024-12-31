@@ -1,0 +1,12 @@
+.view-data:hover .view-content{
+    border-color: #000!important;
+    }
+    .view-data:hover h3{
+        color: #000!important;
+    } 
+    .view-data:hover h6{
+        color: #000!important;
+    } 
+    .view-data,h3,h6{
+        transition: all 0.5s;
+    }

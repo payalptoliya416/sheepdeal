@@ -1,0 +1,17 @@
+.myprofile .accordion-item {
+  border: none; 
+  border-bottom: 1px solid rgb(246, 244, 244);
+}
+.myprofile .accordion-button:focus{
+  box-shadow: none;
+}
+ .collapse{
+ visibility: visible;
+}
+.myprofile .accordion-button:not(.collapsed){
+    background-color: aliceblue;
+}
+
+.logout .accordion-button::after{
+  display: none;
+}

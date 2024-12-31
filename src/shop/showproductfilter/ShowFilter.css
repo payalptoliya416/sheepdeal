@@ -1,0 +1,12 @@
+.filter-menu{
+    opacity: 0;
+    visibility: hidden;
+    transform: rotateX(90deg);
+    transform-origin: top center;
+}
+.filter:hover .filter-menu{
+    opacity: 1;
+    visibility: visible;
+    transition: all 0.5s;
+    transform: rotateX(0deg);
+} 

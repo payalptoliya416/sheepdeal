@@ -1,0 +1,8 @@
+.contactus-form .form-control{
+    border-radius: 0px;
+    border-color: #CCCCCC;
+    background: #ffffff80;
+    padding: 14px 20px;
+    width: 100%;
+    box-shadow: none;
+}

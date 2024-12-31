@@ -1,0 +1,6 @@
+.placeorder .accordion-button::after{
+    display: none;
+}
+.placeorder .accordion-button{
+    background-color: white;
+}

@@ -1,0 +1,22 @@
+.nav-item:hover .sub-menu {
+  opacity: 1 !important;
+  z-index: 9999;
+}
+.sub-menu {
+  transition: all 0.6s;
+}
+.overlay:hover {
+  opacity: 1;
+}
+
+.modal-open {
+  padding-right: 0 !important;
+}
+
+.responsive-nav .dropdown-toggle {
+  background-color: transparent!important;
+  border: none;
+  text-align: start;
+  /* width: 100%; */
+}
+

@@ -1,0 +1,29 @@
+
+@media(max-width:320px){
+    .collection .collection-position {
+        top: 20%;
+        left: 20%;
+    }
+    .collection .collection-position h2{
+            font-size: 20px;
+    }
+}
+.collection .swiper-pagination{
+    position: static;
+    padding-top: 30px;
+}
+.collection .swiper-pagination-bullet{
+    width: 45px;
+    background: #FF8E78;
+    border: 1px solid #FF8E78;
+    border-radius: 0;
+    cursor: pointer;
+    height: 5px;
+}
+
+/* .collection-data img{
+    transition: all 0.9s;
+} */
+.collection .collection-data:hover .img{
+    transform: scale(1.2)!important;
+}

@@ -1,0 +1,6 @@
+.sale .thumb:hover .img-sale{
+    transform: scale(1.4);
+}
+.sale .img-sale{
+    transition: all 0.9s;
+}
